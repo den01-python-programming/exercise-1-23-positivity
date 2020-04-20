@@ -1,4 +1,4 @@
-def ancient():
+def positivity():
     # Write your code here
     
-ancient()
+positivity()
